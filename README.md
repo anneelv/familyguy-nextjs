@@ -21,11 +21,11 @@
 
 ## Introduction
 
-This is cloned starter repository from
-[How to Create a Full-Stack Application with Next.js](https://www.freecodecamp.org/news/step-by-step-tutorial-for-building-your-first-full-stack-application-with-nextjs)
+This is cloned starter repository from https://github.com/Yazdun/next-fcc-familyguy.git
+
 
 This repository is created to learn more on how to create a full-stack application
-using Next.js following the tutorial from the link above. When is possible, I will
+using Next.js following the tutorial from the [How to Create a Full-Stack Application with Next.js](https://www.freecodecamp.org/news/step-by-step-tutorial-for-building-your-first-full-stack-application-with-nextjs). When is possible, I will
 try to add something different from the tutorial to also test my understanding.
 
 ## Getting Started
